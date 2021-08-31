@@ -30,7 +30,7 @@ Meu nome é João Pedro.
 
 <p align="justify">Atualmente estou trabalhando em uma das equipes de desenvolvimento e manutenção de sistemas da Secretaria de Estado de Educação do Distrito Federal (SEDF).</p>
 
-<p align="justify">Tenho muito interesse pela área de Ciência de Dados e estou estudando para trabalhar na área.</p>
+<p align="justify">Tenho muito interesse pela área de Ciência e Análise de Dados e estou estudando para trabalhar na área.</p>
 
 ---
 
