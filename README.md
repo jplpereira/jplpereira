@@ -26,9 +26,7 @@ Meu nome é João Pedro.
 
 <p align="justify">Sou mestre e licenciado em Matemática e estudante de Engenharia de Software pela Universidade de Brasília (UnB).</p>
 
-<p align="justify">Meu sonho é revolucionar a educação brasileira a partir do ensino de tecnologia e programação nas escolas públicas.</p>
-
-<p align="justify">Atualmente estou trabalhando em uma das equipes de desenvolvimento e manutenção de sistemas da Secretaria de Estado de Educação do Distrito Federal (SEDF).</p>
+<p align="justify">Atualmente estou trabalhando como Analista de Dados do Grupo SBF.</p>
 
 <p align="justify">Tenho muito interesse pela área de Ciência e Análise de Dados e estou estudando para trabalhar na área.</p>
 
