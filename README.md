@@ -4,7 +4,7 @@
   <div align="center">
     <font size="5">João Pedro Pereira</font>
     </br>
-    <font size="3">Estudante de Engenharia de Software</font> 
+    <font size="3">Analista de Dados | Data Analyst</font> 
   </div>
 </p>
 
@@ -28,7 +28,7 @@ Meu nome é João Pedro.
 
 <p align="justify">Atualmente estou trabalhando como Analista de Dados do Grupo SBF.</p>
 
-<p align="justify">Tenho muito interesse pela área de Ciência e Análise de Dados e estou estudando para trabalhar na área.</p>
+<p align="justify">Tenho muito interesse pela área de Ciência e Análise de Dados.</p>
 
 ---
 
