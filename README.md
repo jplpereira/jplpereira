@@ -26,7 +26,7 @@ Meu nome é João Pedro.
 
 <p align="justify">Sou mestre e licenciado em Matemática e estudante de Engenharia de Software pela Universidade de Brasília (UnB).</p>
 
-<p align="justify">Atualmente estou trabalhando como Analista de Dados do Grupo SBF.</p>
+<p align="justify">Atualmente estou trabalhando como Analista de Negócios no Will Bank.</p>
 
 <p align="justify">Tenho muito interesse pela área de Ciência e Análise de Dados.</p>
 
